@@ -25,7 +25,7 @@ Purrfect is built entirely using **WIX Studio**, ensuring a **no-code** solution
 ### Product Selection  
 ![Product Selection](https://github.com/Sidd1542004/Purrfect_Web_Page/blob/main/images/Screenshot%20(129).png)  
 
-### Cart Page  
+### Services Page  
 ![Cart](https://github.com/Sidd1542004/Purrfect_Web_Page/blob/main/images/Screenshot%20(130).png)  
 
 ### Checkout  
